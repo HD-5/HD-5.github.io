@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Xiangrui Deng</title>
+    <link>https://hd-5.github.io/techs/python/</link>
+    <description>Recent content in Python on Xiangrui Deng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2020 Xiangrui Deng. All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 10 May 2019 15:47:09 +0200</lastBuildDate>
+    
+	<atom:link href="https://hd-5.github.io/techs/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Personal Identification Based on Smartwatch</title>
+      <link>https://hd-5.github.io/portfolio/sample-project2/</link>
+      <pubDate>Fri, 10 May 2019 15:47:09 +0200</pubDate>
+      
+      <guid>https://hd-5.github.io/portfolio/sample-project2/</guid>
+      <description>This project tried to find a new way for personal identification based on the sensor we have on smartwatch. As today smartwarch can easily detect raw PPG(Photoplethysmography) and ECG(Electrocardiography) signal, we tried to use machine learning algorithm to see if these two signal can give us enough information for personal identification.
+We cleaned raw PPG and ECG data and extracted 20 different features from filtered signals using Python. Then, we built random forest models to identify different people using selected features.</description>
+    </item>
+    
+    <item>
+      <title>Tech Company Employee Review Analysis With Statistical Learning Methods</title>
+      <link>https://hd-5.github.io/portfolio/sample-project3/</link>
+      <pubDate>Tue, 07 May 2019 09:47:09 +0200</pubDate>
+      
+      <guid>https://hd-5.github.io/portfolio/sample-project3/</guid>
+      <description>Job seeking and employment situations, either full-time or internships, are hot topics for most graduate students. As new graduates, however, we may lack working experience, which will cause difficulty in understanding various situations of companies and job positions and figuring out career goals. One good way for us to know such information is to look at the reviews made by employees to their employers. In this project, we are focusing on a dataset of employee reviews for some top IT companies which contains information about various aspects of employers, job positions, working conditions, and other things that potential employees may concern about.</description>
+    </item>
+    
+  </channel>
+</rss>

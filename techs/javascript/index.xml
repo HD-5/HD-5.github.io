@@ -6,20 +6,19 @@
     <description>Recent content in javascript on Xiangrui Deng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Edna West</copyright>
-    <lastBuildDate>Thu, 02 May 2019 19:47:09 +0200</lastBuildDate>
+    <copyright>© 2020 Xiangrui Deng. All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 29 Apr 2020 12:47:09 +0200</lastBuildDate>
     
 	<atom:link href="https://hd-5.github.io/techs/javascript/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Sample project</title>
+      <title>Texas Wholesaler Distributor Database Performance Improvement</title>
       <link>https://hd-5.github.io/portfolio/sample-project/</link>
-      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      <pubDate>Wed, 29 Apr 2020 12:47:09 +0200</pubDate>
       
       <guid>https://hd-5.github.io/portfolio/sample-project/</guid>
-      <description>This would be a description of your sample project. You can add any content you&amp;rsquo;d like.
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <description>Texas Wholesaler Distributor Database (TWDD), which is maintained by the Texas State Board of Pharmacy (TSBP), is a database that provides agency staff with information on what drug pharmacies and facilities are purchasing from wholesalers. My project improved the whole working process of TWDD by processing disorganized excel files automatically. This project gives TSBP staff the ability to manage and import wholesaler data updates with some level of automation, which saves them certain amount of time.</description>
     </item>
     
   </channel>

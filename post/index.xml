@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>POST on Xiangrui Deng</title>
+    <title>PROJECT on Xiangrui Deng</title>
     <link>https://hd-5.github.io/post/</link>
-    <description>Recent content in POST on Xiangrui Deng</description>
+    <description>Recent content in PROJECT on Xiangrui Deng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Edna West</copyright>
+    <copyright>© 2020 Xiangrui Deng. All Rights Reserved</copyright>
     <lastBuildDate>Fri, 03 May 2019 09:37:55 +0200</lastBuildDate>
     
 	<atom:link href="https://hd-5.github.io/post/index.xml" rel="self" type="application/rss+xml" />
@@ -72,6 +72,16 @@ I prefer the config file approach, as this menu is pretty simple.&lt;/p&gt;</des
       <guid>https://hd-5.github.io/post/config-file/</guid>
       <description>&lt;p&gt;Here is the basic config file used for personal-web.&lt;/p&gt;
 &lt;p&gt;You can use it as a base for your website.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Open Graph image</title>
+      <link>https://hd-5.github.io/post/define-specific-og-image-copy/</link>
+      <pubDate>Sat, 20 Apr 2019 11:14:59 +0200</pubDate>
+      
+      <guid>https://hd-5.github.io/post/define-specific-og-image-copy/</guid>
+      <description>Within any page, you can add in the FrontMatter a images array that will be used to define a specific Open Graph image.
+For example, see content/_index.md page:</description>
     </item>
     
     <item>

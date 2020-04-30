@@ -3,14 +3,112 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hd-5.github.io/post/getting-started/</loc>
-    <lastmod>2019-05-03T09:37:55+02:00</lastmod>
+    <loc>https://hd-5.github.io/techs/d3/</loc>
+    <lastmod>2020-04-29T12:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hd-5.github.io/designs/</loc>
+    <lastmod>2020-04-29T12:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://hd-5.github.io/</loc>
+    <lastmod>2020-04-29T12:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hd-5.github.io/techs/javascript/</loc>
+    <lastmod>2020-04-29T12:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hd-5.github.io/designs/photoshop/</loc>
+    <lastmod>2020-04-29T12:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hd-5.github.io/portfolio/</loc>
+    <lastmod>2020-04-29T12:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hd-5.github.io/techs/</loc>
+    <lastmod>2020-04-29T12:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hd-5.github.io/portfolio/sample-project/</loc>
+    <lastmod>2020-04-29T12:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hd-5.github.io/techs/keras/</loc>
+    <lastmod>2019-05-10T15:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hd-5.github.io/designs/machine-learning/</loc>
+    <lastmod>2019-05-10T15:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hd-5.github.io/portfolio/sample-project2/</loc>
+    <lastmod>2019-05-10T15:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hd-5.github.io/techs/python/</loc>
+    <lastmod>2019-05-10T15:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hd-5.github.io/designs/data-science/</loc>
+    <lastmod>2019-05-07T09:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hd-5.github.io/designs/natural-language-processing/</loc>
+    <lastmod>2019-05-07T09:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hd-5.github.io/portfolio/sample-project3/</loc>
+    <lastmod>2019-05-07T09:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hd-5.github.io/post/getting-started/</loc>
     <lastmod>2019-05-03T09:37:55+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -26,55 +124,6 @@
   <url>
     <loc>https://hd-5.github.io/post/portfolio-definition/</loc>
     <lastmod>2019-05-02T19:49:05+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://hd-5.github.io/techs/d3/</loc>
-    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://hd-5.github.io/designs/</loc>
-    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://hd-5.github.io/techs/javascript/</loc>
-    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://hd-5.github.io/designs/photoshop/</loc>
-    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://hd-5.github.io/portfolio/</loc>
-    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://hd-5.github.io/portfolio/sample-project/</loc>
-    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://hd-5.github.io/techs/</loc>
-    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -108,6 +157,13 @@
   </url>
   
   <url>
+    <loc>https://hd-5.github.io/post/define-specific-og-image-copy/</loc>
+    <lastmod>2019-04-20T11:14:59+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hd-5.github.io/post/define-specific-og-image/</loc>
     <lastmod>2019-04-20T11:14:59+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -115,7 +171,7 @@
   </url>
   
   <url>
-    <loc>https://hd-5.github.io/about/</loc>
+    <loc>https://hd-5.github.io/resume/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
