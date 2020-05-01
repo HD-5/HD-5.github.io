@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PHP on Xiangrui Deng</title>
+    <link>https://hd-5.github.io/techs/php/</link>
+    <description>Recent content in PHP on Xiangrui Deng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2020 Xiangrui Deng. All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 29 Apr 2020 12:47:09 +0200</lastBuildDate>
+    
+	<atom:link href="https://hd-5.github.io/techs/php/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Texas Wholesaler Distributor Database Performance Improvement</title>
+      <link>https://hd-5.github.io/portfolio/sample-project/</link>
+      <pubDate>Wed, 29 Apr 2020 12:47:09 +0200</pubDate>
+      
+      <guid>https://hd-5.github.io/portfolio/sample-project/</guid>
+      <description>Texas Wholesaler Distributor Database (TWDD), which is maintained by the Texas State Board of Pharmacy (TSBP), is a database that provides agency staff with information on what drug pharmacies and facilities are purchasing from wholesalers. My project improved the whole working process of TWDD by modifying the upload procedure and processing disorganized Excel files automatically. This project gives TSBP staff the ability to manage and import wholesaler data updates with some level of automation, which saves them a certain amount of time.</description>
+    </item>
+    
+  </channel>
+</rss>

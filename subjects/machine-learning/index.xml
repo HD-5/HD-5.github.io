@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Keras on Xiangrui Deng</title>
-    <link>https://hd-5.github.io/techs/keras/</link>
-    <description>Recent content in Keras on Xiangrui Deng</description>
+    <title>Machine Learning on Xiangrui Deng</title>
+    <link>https://hd-5.github.io/subjects/machine-learning/</link>
+    <description>Recent content in Machine Learning on Xiangrui Deng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2020 Xiangrui Deng. All Rights Reserved</copyright>
     <lastBuildDate>Fri, 10 May 2019 15:47:09 +0200</lastBuildDate>
     
-	<atom:link href="https://hd-5.github.io/techs/keras/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hd-5.github.io/subjects/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

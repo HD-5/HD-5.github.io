@@ -1,26 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Python on Xiangrui Deng</title>
-    <link>https://hd-5.github.io/techs/python/</link>
-    <description>Recent content in Python on Xiangrui Deng</description>
+    <title>Data Science on Xiangrui Deng</title>
+    <link>https://hd-5.github.io/subjects/data-science/</link>
+    <description>Recent content in Data Science on Xiangrui Deng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2020 Xiangrui Deng. All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 10 May 2019 15:47:09 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2019 09:47:09 +0200</lastBuildDate>
     
-	<atom:link href="https://hd-5.github.io/techs/python/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hd-5.github.io/subjects/data-science/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Personal Identification Based on Smartwatch</title>
-      <link>https://hd-5.github.io/portfolio/sample-project2/</link>
-      <pubDate>Fri, 10 May 2019 15:47:09 +0200</pubDate>
-      
-      <guid>https://hd-5.github.io/portfolio/sample-project2/</guid>
-      <description>This project tried to find a new way for personal identification based on the sensor we have on the smartwatch. As today&amp;rsquo;s smartwarch can easily detect raw PPG(Photoplethysmography) and ECG(Electrocardiography) signal, we tried to use machine learning algorithm to see if these two signals can give us enough information for personal identification.
-We cleaned raw PPG and ECG data and extracted 20 different features from filtered signals using Python. Then, we built random forest models to identify different people using selected features.</description>
-    </item>
     
     <item>
       <title>Tech Company Employee Review Analysis With Statistical Learning Methods</title>
